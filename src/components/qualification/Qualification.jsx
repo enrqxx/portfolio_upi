@@ -130,12 +130,12 @@ const Qualification = () => {
           >
             <div className="qualification__data">
               <div>
-                <h3 className="qualification__title">Fresh Graduate</h3>
+                <h3 className="qualification__title">Web Development</h3>
                 <span className="qualification__subtitle">
-                  Bandung <br /> Universitas Pasundan
+                  Purwakarta <br /> Pratama Solusi Teknologi
                 </span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt"></i> 2023 - September
+                  <i className="uil uil-calendar-alt"></i> 2021 - 2022
                 </div>
               </div>
 
