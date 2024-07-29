@@ -1,38 +1,38 @@
-import Work1 from "../../assets/work1.jpg";
-import Work2 from "../../assets/work2.jpg";
-import Work3 from "../../assets/work3.jpg";
-import Work4 from "../../assets/work4.jpg";
-import Work5 from "../../assets/work5.jpg";
+import Work1 from "../../assets/home1.png";
+import Work2 from "../../assets/back-end1.png";
+import Work3 from "../../assets/home2.png";
+import Work4 from "../../assets/admin-dashboard.png";
+import Work5 from "../../assets/contactme.png";
 
 export const projectsData = [
   {
     id: 1,
     image: Work1,
-    title: "Web design",
-    category: "web",
+    title: "Web Design",
+    category: "web", 
   },
   {
     id: 2,
     image: Work2,
-    title: "App movil",
+    title: "Back-End Design Login",
     category: "app",
   },
   {
     id: 3,
     image: Work3,
-    title: "Brand design",
-    category: "design",
+    title: "Web Design",
+    category: "web",
   },
   {
     id: 4,
     image: Work4,
-    title: "App movil",
+    title: "App Back-End",
     category: "app",
   },
   {
     id: 5,
     image: Work5,
-    title: "Web design",
+    title: "Contact Me Design",
     category: "web",
   },
 ];
