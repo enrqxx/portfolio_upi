@@ -29,11 +29,11 @@ const Footer = () => {
 
         <div className="footer__social">
           <a
-            href="https://www.twitch.tv/upiapaupu"
+            href="https://www.linkedin.com/in/yusyfi-fuada/"
             className="footer__social-link"
             target="_blank"
           >
-            <i class='bx bxl-twitch'></i>
+            <i class='bx bxl-linkedin' ></i>
 
           </a>
 

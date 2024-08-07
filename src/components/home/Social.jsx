@@ -12,11 +12,11 @@ const Social = () => {
       </a>
 
       <a
-        href="https://www.twitch.tv/upiapaupu"
+        href="https://www.linkedin.com/in/yusyfi-fuada/"
         className="home__social-icon"
         target="_blank"
       >
-        <i class='bx bxl-twitch'></i>
+        <i class='bx bxl-linkedin' ></i>
       </a>
 
       <a
