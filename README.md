@@ -1,70 +1,42 @@
-# Getting Started with Create React App
+# My Portfolio 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to my portfolio repository ! This is a showcase of my projects, skills, and experience as a developer. You will find below all the different projects i have been working on in addition to an overview of my technical abilities.
 
-## Available Scripts
+## Table of Content
 
-In the project directory, you can run:
+- [About Me](#About-Me)
+- [Projects](#Projects)
+- [Skills](#Skills)
+- [Contact](#Contact)
 
-### `npm start`
+## About Me
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Hi, I am a passionate developer profiecient in experience in [Mention your key skills pr technology stack]. What drives me today is problem-solving, learning new technologies, and working on projects which make a difference. This porfolio would be a reflection of my journey in the world of tech.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Project 1 : [Web Development Bapenda Purwakarta]
+- **Description:** Create and develop Bapenda Purwakarta Website with emphasis on user experience and design
+- **Technologies Used:** Codeigniter 4 - PHP
 
-### `npm test`
+## Project 2 : [Web Development Student Registration System]
+- **Description:** Student Registration Web Application for IT Elementary School An-Nahar Pangandaran Improved Registration process by automating entry and validation process, Minimzing human error 85% with a faster processing of time x50%
+- **Technologies Used:** Laravel - PHP
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Project 3 : [Web Developement Vehicle and Heavy Equipment Management System] 
+- **Description:** Development a backend Web Application for vehicle and heavy equipment admin operation create maintained database schema implemented asset tracking/reporting.
+- **Technologies Use:** Laravel 11 - PHP
 
-### `npm run build`
+## Skills 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+-**Frontend:** JavaScript, CSS, SASS, HTML
+-**Backend:** [NodeJS, Laravel, PHP, ReactJS, Python, CodeIgniter]
+-**Database:** [MySQL, NaviCat, mySQL workbench]
+-**GitHub:** [https://github.com/enrqxx]
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Thanks for stopping by my portfolio ! Hope you find something interseting 😊
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Contact 
 
-### `npm run eject`
+Feel free to reach out to me via : 
+-**Email:** [yusyfi.fuada@gmail.com]
+-**Linkedin:** [https://www.linkedin.com/in/yusyfi-fuada/]
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
