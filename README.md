@@ -27,16 +27,16 @@ Hi, I am a passionate developer profiecient in experience in [Mention your key s
 
 ## Skills 
 
--**Frontend:** JavaScript, CSS, SASS, HTML
--**Backend:** [NodeJS, Laravel, PHP, ReactJS, Python, CodeIgniter]
--**Database:** [MySQL, NaviCat, mySQL workbench]
--**GitHub:** [https://github.com/enrqxx]
+- **Frontend:** JavaScript, CSS, SASS, HTML
+- **Backend:** [NodeJS, Laravel, PHP, ReactJS, Python, CodeIgniter]
+- **Database:** [MySQL, NaviCat, mySQL workbench]
+- **GitHub:** [https://github.com/enrqxx]
 
 Thanks for stopping by my portfolio ! Hope you find something interseting 😊
 
 ## Contact 
 
 Feel free to reach out to me via : 
--**Email:** [yusyfi.fuada@gmail.com]
--**Linkedin:** [https://www.linkedin.com/in/yusyfi-fuada/]
+- **Email:** [yusyfi.fuada@gmail.com]
+- **Linkedin:** [https://www.linkedin.com/in/yusyfi-fuada/]
 
