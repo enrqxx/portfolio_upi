@@ -1,21 +1,32 @@
-import React, { useRef } from "react";
+import React, { useRef, useState } from "react";
 import emailjs from '@emailjs/browser';
 import "./contact.css";
 
 const Contact = () => {
   const form = useRef();
+  const [showPopup, setShowPopup] = useState(false);
 
   const sendEmail = (e) => {
     e.preventDefault();
 
     emailjs
       .sendForm(
-        "service_x1hewh5",
-        "template_2ki8hlo",
+        "service_fd0lwku",
+        "template_5i0bva9",
         form.current,
-        "vxDcl4UI2jbOQBn6f"
+        "H3MnDRAPydAmDbeK8"
       )
-      e.target.reset()
+      .then(() =>{
+        setShowPopup(true);
+        e.target.reset();
+
+        setTimeout(() => {
+          setShowPopup(false);
+        }, 3000);
+      })
+      .catch((error) => {
+        console.error('Email message not sent successfully', error);
+      });
   };
 
   return (
@@ -69,9 +80,10 @@ const Contact = () => {
               <label className="contact__form-tag">Name</label>
               <input
                 type="text"
-                name="name"
+                name="from_name"
                 className="contact__form-input"
                 placeholder="Insert your name"
+                required
               />
             </div>
 
@@ -82,17 +94,19 @@ const Contact = () => {
                 name="email"
                 className="contact__form-input"
                 placeholder="Insert your email"
+                required
               />
             </div>
 
             <div className="contact__form-div contact__form-area">
-              <label className="contact__form-tag">Project</label>
+              <label className="contact__form-tag">Message</label>
               <textarea
-                name="project"
+                name="message"
                 cols="30"
                 rows="10"
                 className="contact__form-input"
-                placeholder="Write your project"
+                placeholder="Write your message"
+                required
               ></textarea>
             </div>
 
@@ -119,6 +133,13 @@ const Contact = () => {
           </form>
         </div>
       </div>
+
+      {/* Popup Notification */}
+      {showPopup && (
+        <div className="popup">
+          <p>Your message has been sent successfully</p>
+        </div>
+      )}
     </section>
   );
 };
