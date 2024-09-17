@@ -39,4 +39,5 @@ Thanks for stopping by my portfolio ! Hope you find something interseting 😊
 Feel free to reach out to me via : 
 - **Email:** [yusyfi.fuada@gmail.com]
 - **Linkedin:** [https://www.linkedin.com/in/yusyfi-fuada/]
+- **Website:** [https://yusyfi-fuada.vercel.app/]
 
