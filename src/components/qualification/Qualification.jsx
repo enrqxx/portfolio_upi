@@ -149,7 +149,7 @@ const Qualification = () => {
                   RSU Asri - Purwakarta
                 </span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt"></i> 3 Month
+                  <i className="uil uil-calendar-alt"></i> 4 Month
                 </div>
               </div>
             </div>
