@@ -17,7 +17,7 @@ const About = () => {
           <Info />
 
           <p className="about__description">
-            I am a Informatics Engineering graduate from Pasundan University with expertise in both Front-End and Back-End Development. My passion lies in crafting engaging UI/UX experiences while building innovative and high-quality software solutions. With a strong commitment to continuous learning and technology-driven innovation, I strive to create efficient, user-friendly, and impactful digital experiences. 
+            I earned my degree in Computer Engineering from Pasundan University specializing in Front-End and Back-End Development. I am enthusiastic about creating appealing UI/UX designs and developing exceptional software solutions. I focus on learning and technology-driven innovation in order to create effective, convenient, and substantial digital solutions. 
             </p>
 
           <a download="" href={CV} className="button button--flex">
