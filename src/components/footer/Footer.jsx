@@ -32,15 +32,16 @@ const Footer = () => {
             href="https://www.linkedin.com/in/yusyfi-fuada/"
             className="footer__social-link"
             target="_blank"
+            rel="noreferrer"
           >
-            <i class='bx bxl-linkedin' ></i>
-
+            <i className='bx bxl-linkedin'></i>
           </a>
 
           <a
             href="https://www.instagram.com/yfuaaad_/"
             className="footer__social-link"
             target="_blank"
+            rel="noreferrer"
           >
             <i className="bx bxl-instagram"></i>
           </a>
@@ -49,8 +50,9 @@ const Footer = () => {
             href="https://github.com/enrqxx"
             className="footer__social-link"
             target="_blank"
+            rel="noreferrer"
           >
-            <i class='bx bxl-github' ></i>
+            <i className='bx bxl-github'></i>
           </a>
         </div>
 
