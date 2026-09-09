@@ -154,8 +154,24 @@ const Qualification = () => {
               </div>
             </div>
 
+              {/* RIGHT */}
 
+            <div className="qualification__data">
+              <div>
+                <h3 className="qualification__title">IT Developer Web & Mobile</h3>
+                <span className="qualification__subtitle">
+                  PT Indosiar Visual Mandiri
+                </span>
+                <div className="qualification__calender">
+                  <i className="uil uil-calendar-alt"></i> 1 Year - Now
+                </div>
+              </div>
 
+              <div>
+                <span className="qualification__rounder"></span>
+                <span className="qualification__line"></span>
+              </div>
+            </div>
 
           </div>
         </div>

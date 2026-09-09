@@ -33,6 +33,36 @@
     width: 38px;
     height: 38px;
     margin-left: 0.4rem;
+    display: inline-block;
+    transform-origin: 70% 70%;
+    animation: wave 2.5s ease-in-out infinite;
+}
+
+@keyframes wave {
+    0% {
+        transform: rotate(0deg);
+    }
+    10% {
+        transform: rotate(14deg);
+    }
+    20% {
+        transform: rotate(-8deg);
+    }
+    30% {
+        transform: rotate(14deg);
+    }
+    40% {
+        transform: rotate(-4deg);
+    }
+    50% {
+        transform: rotate(10deg);
+    }
+    60% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(0deg);
+    }
 }
 
 .home__subtitle {
@@ -56,6 +86,20 @@
 .home__description {
     max-width: 400px;
     margin-bottom: var(--mb-3);
+}
+
+.home__buttons {
+    display: flex;
+    align-items: center;
+    column-gap: 1rem;
+    flex-wrap: wrap;
+    row-gap: 1rem;
+}
+
+.button--ghost {
+    background: none;
+    border: 2px solid var(--title-color);
+    color: var(--title-color);
 }
 
 .home__img {
